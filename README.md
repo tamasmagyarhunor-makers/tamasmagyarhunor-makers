@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tamasmagyarhunor-makers
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hunor
+- 👀 I’m interested in supporting people achieve their full potential.
+- 🌱 I’m currently learning how to be a more efficient coach.
+- 💞️ I’m looking to collaborate on your technical/emotional challenges.
+- 📫 How to reach me hunor@makers.tech
 
 <!---
 tamasmagyarhunor-makers/tamasmagyarhunor-makers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
