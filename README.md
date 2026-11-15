@@ -1,6 +1,6 @@
 # Hi, I'm Hunor 👋
 
-Software Engineering Coach on the AI Engineering team at [Makers](https://makers.tech).
+Software Engineering Coach and also on the AI Engineering team at [Makers](https://makers.tech).
 I build AI-assisted automation and internal tools in Python, and I teach people how software works.
 
 ## Now
